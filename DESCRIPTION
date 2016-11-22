@@ -2,7 +2,7 @@ Package: sdnada
 Title: Standard Deviation Calculator
 Version: 0.0.0.9000
 Authors@R: person("Nada", "Salem", role=c("aut", "cre"), email="nsalem92@gmail.com")
-Description: Contrived example to calculate the standard deviation
+Description: Contains a contrived function that computes the standard deviation.
 Depends:
     R (>= 3.3.2)
 License: MIT LICENSE

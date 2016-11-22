@@ -1,9 +1,9 @@
 Package: sdnada
-Title: What the Package Does (one line, title case)
+Title: Standard Deviation Calculator
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: Nada Salem nsalem92@gmail.com
+Description: Contrived example to calculate the standard deviation
 Depends: R (>= 3.3.2)
-License: What license is it under?
+License:
 Encoding: UTF-8
 LazyData: true

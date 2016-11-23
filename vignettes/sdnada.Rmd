@@ -3,11 +3,17 @@ title: "sdnada Vignette"
 author: "Nada Salem"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
+keep_md: true
+toc: true
 vignette: >
   %\VignetteIndexEntry{sdnada Vignette}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 This package contains functions for statistical calculations, more specifically, this package contains a contrived function that computes the standard deviation of a numeric vector.
 

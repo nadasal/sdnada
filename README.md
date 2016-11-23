@@ -4,14 +4,14 @@
 
 This package contains functions for statistical calculations, more specifically, this package contains a contrived function that computes the standard deviation of a numeric vector.
 
-# Installation
+## Installation
 
 ```
 devtools::install_github("nadasal/sdnada")
 
 ```
 
-# Quick Demo
+## Quick Demo
 
 ```
 

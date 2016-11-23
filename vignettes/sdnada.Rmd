@@ -4,6 +4,7 @@ author: "Nada Salem"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 keep_md: true
+toc: true
 vignette: >
   %\VignetteIndexEntry{Vignette Title}
   %\VignetteEngine{knitr::rmarkdown}

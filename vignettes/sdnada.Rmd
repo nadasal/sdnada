@@ -2,7 +2,7 @@
 title: "sdnada Vignette"
 author: "Nada Salem"
 date: "`r Sys.Date()`"
-output: rmarkdown::github_vignette
+output: rmarkdown::html_vignette
 keep_md: true
 toc: true
 vignette: >

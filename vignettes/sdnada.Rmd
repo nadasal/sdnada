@@ -31,3 +31,12 @@ x <- standard_deviation(c(1,2,3,4))
 print(x)
 
 ```
+
+```{r}
+
+y <- standard_deviation(c(1.7, 5.4, 9.6, 4.8))
+
+print(y)
+
+
+```

@@ -7,7 +7,7 @@
 #' @return numeric
 #' @export
 #'
-#' @examples Standard_deviation(c(1, 7, 3.7, 2, 0.3))
+#' @examples standard_deviation(c(1, 7, 3.7, 2, 0.3))
 
 standard_deviation <- function(x) {
 	n <- length(x)
@@ -16,4 +16,3 @@ standard_deviation <- function(x) {
 	stddev = sqrt(ssq/n)
 	return(stddev)
 }
-

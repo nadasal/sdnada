@@ -16,6 +16,6 @@ numeric
 This contrived function computes the standard deviation of the values in x.
 }
 \examples{
-Standard_deviation(c(1, 7, 3.7, 2, 0.3))
+standard_deviation(c(1, 7, 3.7, 2, 0.3))
 }
 

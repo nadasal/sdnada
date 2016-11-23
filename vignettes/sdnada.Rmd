@@ -11,8 +11,8 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE)
 ```
 
 This package contains functions for statistical calculations, more specifically, this package contains a contrived function that computes the standard deviation of a numeric vector.

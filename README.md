@@ -7,7 +7,7 @@ This package contains functions for statistical calculations. More specifically,
 ## Installation
 
 ```
-devtools::install_github("nadasal/sdnada")
+devtools::install_github("nadasal/sdnada", host = "github.ubc.ca/api/v3", auth_token = "cba2bed9999e283b652f5bcb02402634123ba9c6")
 
 ```
 

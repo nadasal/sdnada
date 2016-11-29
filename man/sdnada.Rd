@@ -6,6 +6,6 @@
 \alias{sdnada-package}
 \title{sdnada.}
 \description{
-Contains a contrived function that computes the standard deviation.
+Contains a contrived function that computes the standard deviation or standard error.
 }
 

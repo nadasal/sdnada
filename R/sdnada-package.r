@@ -1,8 +1,7 @@
 #' sdnada.
 #'
-#' Contains a contrived function that computes the standard deviation or standard error.
+#' Contains a contrived function that computes the standard deviation.
 #'
 #' @name sdnada
 #' @docType package
 NULL
-

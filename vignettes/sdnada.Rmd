@@ -14,7 +14,7 @@ vignette: >
 knitr::opts_chunk$set(echo=TRUE)
 ```
 
-This package contains functions for statistical calculations. More specifically, this package contains a contrived function that computes the standard deviation and standard error of a numeric vector.
+This package contains functions for statistical calculations. More specifically, this package contains a contrived function that computes the standard deviation of a numeric vector.
 
 ```{r}
 
@@ -38,24 +38,5 @@ y <- standard_deviation(c(1.7, 5.4, 9.6, 4.8))
 
 print(y)
 
-```
-
-calculating the standard deviation using `standard_error()`:
-
-```{r}
-
-x <- standard_error(c(1, 1, 3, 3))
-
-print(x)
 
 ```
-
-
-```{r}
-
-y <- standard_error(c(1.7, 5.4, 9.6, 4.8))
-
-print(y)
-
-```
-

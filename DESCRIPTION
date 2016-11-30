@@ -1,8 +1,9 @@
 Package: sdnada
-Title: Standard Deviation Calculator
-Version: 0.0.0.9000
-Authors@R: person("Nada", "Salem", role=c("aut", "cre"), email="nsalem92@gmail.com")
-Description: Contains a contrived function that computes the standard deviation.
+Title: Standard Deviation and Standard error Calculator
+Version: 0.0.0.9001
+Authors@R: person("Nada", "Salem",role=c("aut", "cre"), email="nsalem92@gmail.com")
+           person("Nada", "Salem",role=c("aut", "cre"), email="nsalem92@gmail.com")
+Description: Contains a contrived function that computes the standard deviation and standard error.
 Depends:
     R (>= 3.3.2)
 License: MIT LICENSE

@@ -1,16 +1,14 @@
 Package: sdnada
-Title: Standard Deviation and Standard error Calculator
-Version: 0.0.0.9001
-Authors@R: person("Nada", "Salem",role=c("aut", "cre"), email="nsalem92@gmail.com")
-           person("Nada", "Salem",role=c("aut", "cre"), email="nsalem92@gmail.com")
-Description: Contains a contrived function that computes the standard deviation and standard error.
+Title: Standard Deviation and Standard Error Calculator
+Version: 0.0.0.9000
+Authors@R: person("Nada", "Salem", role=c("aut", "cre"), email="nsalem92@gmail.com")
+           person("Nasim", "Tabatabaei",role=c("aut", "cre"), email="nasim.taba2@gmail.com")
+Description: Contains contrived functions that compute the standard deviation or standard error of a numeric vector.
 Depends:
     R (>= 3.3.2)
 License: MIT LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1
-Suggests: testthat,
-    knitr,
-    rmarkdown
+Suggests: testthat, knitr, rmarkdown
 VignetteBuilder: knitr

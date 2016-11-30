@@ -14,7 +14,7 @@ vignette: >
 knitr::opts_chunk$set(echo=TRUE)
 ```
 
-This package contains functions for statistical calculations. More specifically, this package contains a contrived function that computes the standard deviation and standard error of a numeric vector.
+This package contains functions for statistical calculations. More specifically, this package Contains contrived functions that compute the standard deviation or standard error of a numeric vector.
 
 ```{r}
 

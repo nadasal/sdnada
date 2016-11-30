@@ -2,7 +2,7 @@
 
 # sdnada
 
-This package contains functions for statistical calculations. More specifically, this package contains a contrived function that computes the standard deviation and standard errorof a numeric vector.
+This package contains functions for statistical calculations. More specifically, this package contains contrived functions that compute the standard deviation and standard error of a numeric vector.
 
 ## Installation
 
@@ -64,4 +64,3 @@ print(y)
 #> [1] 1.407291
 
 ```
-

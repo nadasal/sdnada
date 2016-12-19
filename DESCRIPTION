@@ -5,7 +5,7 @@ Authors@R: person("Nada", "Salem", role=c("aut", "cre"), email="nsalem92@gmail.c
            person("Nasim", "Tabatabaei",role=c("aut", "cre"), email="nasim.taba2@gmail.com")
 Description: Contains contrived functions that compute the standard deviation or standard error of a numeric vector.
 Depends:
-    R (>= 3.3.2)
+    R (>= 3.3.1)
 License: MIT LICENSE
 Encoding: UTF-8
 LazyData: true

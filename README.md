@@ -8,7 +8,7 @@ This package contains functions for statistical calculations. More specifically,
 
 ## Installation
 
-*Requires `R` version 3.3.2 or newer*
+
 
 ```
 devtools::install_github("nadasal/sdnada")

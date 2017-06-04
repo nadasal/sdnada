@@ -1,3 +1,4 @@
+
 [![Build Status](https://travis-ci.org/nadasal/sdnada.svg?branch=master)](https://travis-ci.org/nadasal/sdnada)
 
 **NOTE: This is a toy package created for the purpose going through the package creation process. It is not meant to be terribly useful in its current form. Includes a vignette, license, tests, and a build status.**
